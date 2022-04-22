@@ -21,6 +21,9 @@ public class App {
         bank = new Bank();
         System.out.println(bank.getString());
 
+        DBBL dbbl = new DBBL();
+        System.out.println(dbbl.getString());
+
 
     }
 }
