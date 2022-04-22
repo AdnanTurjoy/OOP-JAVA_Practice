@@ -12,7 +12,7 @@ class Base {
     int getValue() {
         return value;
     }
-}
+} 
 
 class Derived extends Base {
     Derived() {
