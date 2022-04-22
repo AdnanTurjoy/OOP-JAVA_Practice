@@ -32,3 +32,16 @@ public class examVeda5 {
         c.eat(h);                 
     }
 }
+
+
+
+// OUTPUT
+
+/*
+
+MAMMAL
+CATTLE
+HORSE
+Mammal eats food
+
+*/
