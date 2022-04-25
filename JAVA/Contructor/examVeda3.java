@@ -8,7 +8,7 @@ class Aa {
 
 class Bb extends Aa {
     int i = 12;
-
+    
     public void printValue() {
         System.out.print("Value-B");
     }
