@@ -29,3 +29,4 @@ public class Test {
         a.method3();
     }
 }
+//method3() is defined in the class C which is a subclass of B and so A. Even the reference variable a refers to c, a can't access method3() as this method is unknown to class A.
